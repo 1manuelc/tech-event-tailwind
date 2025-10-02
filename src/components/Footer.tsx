@@ -63,7 +63,7 @@ const Footer = () => {
 									href="mailto:contato@techfuture2025.com.br"
 									className="hover:text-foreground transition-colors"
 								>
-									contato@techfuture2025.com.br
+									contato@etib.com.br
 								</a>
 							</div>
 						</div>
