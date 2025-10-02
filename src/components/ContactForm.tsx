@@ -17,7 +17,7 @@ const ContactForm = () => {
 						</p>
 					</div>
 
-					<Button className="w-full hover:opacity-70 transition-opacity">
+					<Button className="w-full hover:opacity-70 transition-opacity h-fit text-start leading-relaxed text-wrap">
 						<InstagramIcon className="size-5" />
 						<a
 							href="https://www.instagram.com/etib.ifce.tiangua/"
